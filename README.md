@@ -15,10 +15,3 @@ La tienda permite:
 - Calcular el total de cada compra y de todas las ventas realizadas.
 
 Todos estos comportamientos están implementados mediante **métodos dentro de una clase llamada `TiendaOnline`**.
-
-### Para arrancar el proyecto es necesario:
-
-Clona este repositorio desde GitHub:
-
-```bash
-git clone <https://github.com/Adalab/bda-modulo-1-evaluacion-final-NoemiBarrios.git>
