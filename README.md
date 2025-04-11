@@ -18,7 +18,7 @@ Todos estos comportamientos están implementados mediante **métodos dentro de u
 
 ### Para arrancar el proyecto es necesario:
 
-1. Clona este repositorio desde GitHub:
+Clona este repositorio desde GitHub:
 
 ```bash
 git clone <https://github.com/Adalab/bda-modulo-1-evaluacion-final-NoemiBarrios.git>
