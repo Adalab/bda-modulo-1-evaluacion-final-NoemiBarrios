@@ -1,4 +1,4 @@
-TiendaOnline - Evaluación Final Módulo 1
+## TiendaOnline - Evaluación Final Módulo 1
 
 Este proyecto consiste en una **tienda online de ropa** desarrollada en Python como parte de la evaluación del Módulo 1. 
 El objetivo principal es aplicar los conocimientos sobre **clases, listas, diccionarios y funciones**, entre otras competencias del Módulo 1, creando una tienda que gestiona productos, clientes y sus compras.
